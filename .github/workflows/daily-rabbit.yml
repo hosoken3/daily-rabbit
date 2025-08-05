@@ -17,11 +17,11 @@ jobs:
         run: |
           # Rabbit APIからランダムなうさぎ画像を取得
           RABBIT_DATA=$(curl -s "https://rabbit-api-two.vercel.app/api/random")
-          echo "RABBIT_DATA: $RABBIT_DATA"  # デバッグ表示
+          echo "RABBIT_DATA: $RABBIT_DATA"
 
-          # APIレスポンス例: {"_id":"...","breed":"rex","url":"https://...","urlId":"..."}
-          RABBIT_URL=$(echo $RABBIT_DATA | jq -r '.url')
-          RABBIT_BREED=$(echo $RABBIT_DATA | jq -r '.breed // "不明"')
+          # "url"と"breed"の取得
+          RABBIT_URL=$(echo "$RABBIT_DATA" | jq -r '.url')
+          RABBIT_BREED=$(echo "$RABBIT_DATA" | jq -r '.breed // "不明"')
           echo "RABBIT_URL: $RABBIT_URL"
           echo "RABBIT_BREED: $RABBIT_BREED"
 
