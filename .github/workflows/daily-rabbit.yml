@@ -1,0 +1,45 @@
+name: Daily Rabbit Update
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 毎日朝9時（日本時間）
+  workflow_dispatch:     # 手動実行も可能
+
+jobs:
+  update-rabbit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # ファイル更新のための権限
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Get rabbit image and update README
+        run: |
+          # うさぎ画像APIから画像情報を取得
+          RABBIT_DATA=$(curl -s "https://rabbit-api-two.vercel.app/api/rabbit")
+          RABBIT_URL=$(echo $RABBIT_DATA | jq -r '.url')
+          
+          # サイズ情報等があれば追加（なければ省略OK）
+          CURRENT_DATE=$(date '+%Y-%m-%d %H:%M')
+
+          cat > README.md << EOF
+          # 今日の癒しうさぎ 🐰
+          
+          ![今日のうさぎ]($RABBIT_URL)
+          
+          **画像情報:**
+          - 最終更新: $CURRENT_DATE
+          
+          ---
+          
+          このリポジトリは毎日朝9時に自動でうさぎ画像が更新されます。
+          GitHub Actionsの力で、365日違ううさぎに出会えます！
+          EOF
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "🐰 今日のうさぎを更新: $(date '+%Y-%m-%d')" || exit 0
+          git push
