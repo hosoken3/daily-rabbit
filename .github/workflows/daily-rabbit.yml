@@ -12,30 +12,34 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Get rabbit image and update README
         run: |
-          # うさぎ画像APIから画像情報を取得
-          RABBIT_DATA=$(curl -s "https://rabbit-api-two.vercel.app/api/rabbit")
+          # Rabbit APIからランダム画像情報を取得
+          RABBIT_DATA=$(curl -s "https://rabbit-api-two.vercel.app/api/random")
           RABBIT_URL=$(echo $RABBIT_DATA | jq -r '.url')
-          
-          # サイズ情報等があれば追加（なければ省略OK）
+          RABBIT_BREED=$(echo $RABBIT_DATA | jq -r '.breed // "不明"')
+          # APIによりフィールドが異なる場合は適宜修正ください
+
+          # 日時
           CURRENT_DATE=$(date '+%Y-%m-%d %H:%M')
 
+          # README.mdを更新
           cat > README.md << EOF
           # 今日の癒しうさぎ 🐰
-          
+
           ![今日のうさぎ]($RABBIT_URL)
-          
+
           **画像情報:**
+          - 品種: $RABBIT_BREED
           - 最終更新: $CURRENT_DATE
-          
+
           ---
-          
+
           このリポジトリは毎日朝9時に自動でうさぎ画像が更新されます。
           GitHub Actionsの力で、365日違ううさぎに出会えます！
           EOF
-          
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
