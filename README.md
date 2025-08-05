@@ -1,13 +1,10 @@
-# daily-rabbit
-https://note.com/nyattoh/n/nd599166ee346?sub_rt=share_pw
-
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://rabbit-api-two.vercel.app/random-bunny.jpg)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F09be9ed2?alt=media&token=0730e22d-1fc3-4e7b-a75f-35a195a6749d)
 
 **画像情報:**
-- サイズ: 不明
-- 最終更新: 初回実行待ち
+- 品種: holland lop
+- 最終更新: 2025-08-05 04:57
 
 ---
 
