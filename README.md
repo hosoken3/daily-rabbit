@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F4d0528be?alt=media&token=b97ba76d-6545-4722-8bde-b861903fa538)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F2a64f4df?alt=media&token=9d7ba895-4966-4e7e-8bc2-408a39375db3)
 
 **画像情報:**
-- 品種: holland lop
-- 最終更新: 2025-09-01 00:57
+- 品種: mini rex
+- 最終更新: 2025-09-02 00:47
 
 ---
 
