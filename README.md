@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fc17ba963?alt=media&token=73243179-8c26-4194-8a89-5121b787fcee)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F7041347a?alt=media&token=903cc295-7efb-411d-9225-8dbb092ced74)
 
 **画像情報:**
-- 品種: mixed
-- 最終更新: 2025-09-23 00:45
+- 品種: french lop
+- 最終更新: 2025-09-24 00:45
 
 ---
 
