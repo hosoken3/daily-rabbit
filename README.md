@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F278cf552?alt=media&token=b05d9ed1-0933-488e-be27-b9b25f290c67)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F6b650939?alt=media&token=e080920d-21e4-44ff-8087-450f0b73461e)
 
 **画像情報:**
-- 品種: belgian hare
-- 最終更新: 2025-10-17 00:46
+- 品種: american
+- 最終更新: 2025-10-18 00:43
 
 ---
 
