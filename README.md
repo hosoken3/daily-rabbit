@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fe3b0ca18?alt=media&token=98db6793-91a1-4c1b-949e-8eec65a826e3)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F11373dfb?alt=media&token=4966aec2-4bdd-4092-8239-5bdce57e8022)
 
 **画像情報:**
-- 品種: holland lop
-- 最終更新: 2025-11-26 00:50
+- 品種: mixed
+- 最終更新: 2025-11-27 00:49
 
 ---
 
