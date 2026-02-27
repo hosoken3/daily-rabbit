@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fca00eebf?alt=media&token=419f428d-4d93-4a9b-b2f1-ed3aa5a7ef20)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Ff384a51c?alt=media&token=58e2915e-d774-4662-9287-166359812c43)
 
 **画像情報:**
-- 品種: mini rex
-- 最終更新: 2026-02-26 01:05
+- 品種: flemish giant
+- 最終更新: 2026-02-27 01:04
 
 ---
 
