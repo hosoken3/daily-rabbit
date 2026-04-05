@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fca00eebf?alt=media&token=419f428d-4d93-4a9b-b2f1-ed3aa5a7ef20)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F371993d9?alt=media&token=5133e987-26d4-46ed-b27a-59191cbb7f45)
 
 **画像情報:**
-- 品種: mini rex
-- 最終更新: 2026-04-04 01:09
+- 品種: american
+- 最終更新: 2026-04-05 01:19
 
 ---
 
