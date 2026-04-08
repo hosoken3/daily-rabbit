@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F87a33eec?alt=media&token=55c95d9f-64ec-482e-ae0d-042ae08eefa4)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Ff384a51c?alt=media&token=58e2915e-d774-4662-9287-166359812c43)
 
 **画像情報:**
-- 品種: mixed
-- 最終更新: 2026-04-07 01:17
+- 品種: flemish giant
+- 最終更新: 2026-04-08 01:18
 
 ---
 
