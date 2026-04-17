@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F157e63e4?alt=media&token=4e5d97df-48f1-46f8-991d-589675e87593)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F4556a64f?alt=media&token=296eafc8-3127-4ec1-af78-017d9166f7dd)
 
 **画像情報:**
-- 品種: lionhead
-- 最終更新: 2026-04-16 01:25
+- 品種: holland lop
+- 最終更新: 2026-04-17 01:23
 
 ---
 
