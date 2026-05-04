@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fb9e6a0fc?alt=media&token=9000f82e-1879-466f-961a-2d4c2c7dc577)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fab251390?alt=media&token=fce7328b-d708-4599-8084-121db3c2f04f)
 
 **画像情報:**
-- 品種: mini lop
-- 最終更新: 2026-05-03 01:46
+- 品種: mixed
+- 最終更新: 2026-05-04 01:46
 
 ---
 
