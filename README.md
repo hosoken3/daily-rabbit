@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F102502ed?alt=media&token=be2a193e-511c-4e93-9a46-73b624e1cb7a)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F3e1344ba?alt=media&token=ccb931dc-2e75-42a2-b7b1-3787220483c5)
 
 **画像情報:**
-- 品種: britannia petite
-- 最終更新: 2026-05-16 01:52
+- 品種: mini lop
+- 最終更新: 2026-05-17 01:56
 
 ---
 
