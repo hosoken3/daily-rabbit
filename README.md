@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fb878d115?alt=media&token=77e1c50f-ba41-4d6a-8c3e-a9400265c66a)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fab12ca66?alt=media&token=edae8728-eeeb-4de6-9c43-ff8bb381ebb1)
 
 **画像情報:**
-- 品種: hotot
-- 最終更新: 2026-05-25 02:11
+- 品種: unknown
+- 最終更新: 2026-05-26 02:02
 
 ---
 
