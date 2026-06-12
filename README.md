@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F480925c1?alt=media&token=09e52a41-c154-49ff-8d4d-efb35a0842e7)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F5cdcf5e6?alt=media&token=02bd1089-d8eb-4aa6-8172-e226f0481ef2)
 
 **画像情報:**
-- 品種: lionhead
-- 最終更新: 2026-06-11 02:32
+- 品種: hotot
+- 最終更新: 2026-06-12 02:27
 
 ---
 
