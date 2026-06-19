@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F02ec7e72?alt=media&token=1ac1e949-7894-4c17-95c5-e30555e66341)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fdc003b74?alt=media&token=be38b34d-6d22-458f-b675-e90235436093)
 
 **画像情報:**
-- 品種: mixed
-- 最終更新: 2026-06-18 02:33
+- 品種: unknown
+- 最終更新: 2026-06-19 02:49
 
 ---
 
