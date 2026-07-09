@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fa4d2abc8?alt=media&token=b4adceb1-3ef3-4c18-8165-58be3a63915d)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F87633858?alt=media&token=2bd53386-e822-46dd-b49a-96ec1cb2f77a)
 
 **画像情報:**
-- 品種: dutch
-- 最終更新: 2026-07-08 01:26
+- 品種: harlequin
+- 最終更新: 2026-07-09 01:48
 
 ---
 
