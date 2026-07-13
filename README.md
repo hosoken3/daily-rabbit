@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F6a0c71fb?alt=media&token=e8dffaec-8c0a-4b3f-a8ef-889294985488)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fc9f8e24a?alt=media&token=0b1eaa22-e518-4937-8b29-ec8dc90a0a32)
 
 **画像情報:**
-- 品種: french angora
-- 最終更新: 2026-07-12 01:27
+- 品種: satin
+- 最終更新: 2026-07-13 01:29
 
 ---
 
