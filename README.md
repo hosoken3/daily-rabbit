@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fc9f8e24a?alt=media&token=0b1eaa22-e518-4937-8b29-ec8dc90a0a32)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F9e10f2ce?alt=media&token=d44fa8e2-b576-4593-bb49-3bd9f7b8df1d)
 
 **画像情報:**
-- 品種: satin
-- 最終更新: 2026-07-13 01:29
+- 品種: mixed
+- 最終更新: 2026-07-14 01:18
 
 ---
 
