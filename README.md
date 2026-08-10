@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F6993cdc1?alt=media&token=f161620f-bae8-4657-a613-9d0b02538dcf)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F710595e7?alt=media&token=660ebba9-6fb1-4e8c-aa28-6df1c61c2fc4)
 
 **画像情報:**
-- 品種: netherland dwarf
-- 最終更新: 2026-08-09 00:49
+- 品種: britannia petite
+- 最終更新: 2026-08-10 00:51
 
 ---
 
