@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Ffe99c0ad?alt=media&token=17e154a7-de65-4101-a660-4e97598d9b69)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fe461be8f?alt=media&token=2bc60eeb-e6af-4acb-a814-7a97069681e6)
 
 **画像情報:**
-- 品種: netherland dwarf
-- 最終更新: 2026-09-10 01:53
+- 品種: mixed
+- 最終更新: 2026-09-11 01:52
 
 ---
 
