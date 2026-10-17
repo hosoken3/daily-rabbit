@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F87633858?alt=media&token=2bd53386-e822-46dd-b49a-96ec1cb2f77a)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F157e63e4?alt=media&token=4e5d97df-48f1-46f8-991d-589675e87593)
 
 **画像情報:**
-- 品種: harlequin
-- 最終更新: 2026-10-16 02:02
+- 品種: lionhead
+- 最終更新: 2026-10-17 01:56
 
 ---
 
