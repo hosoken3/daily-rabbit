@@ -1,10 +1,10 @@
 # 今日の癒しうさぎ 🐰
 
-![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2F4259f6bf?alt=media&token=e2b543e8-3389-4e50-a92f-ff1c493ce74d)
+![今日のうさぎ](https://firebasestorage.googleapis.com/v0/b/rabbitdb-9370d.appspot.com/o/rabbits%2Fca00eebf?alt=media&token=419f428d-4d93-4a9b-b2f1-ed3aa5a7ef20)
 
 **画像情報:**
-- 品種: english lop
-- 最終更新: 2026-11-25 05:56
+- 品種: mini rex
+- 最終更新: 2026-11-26 05:47
 
 ---
 
